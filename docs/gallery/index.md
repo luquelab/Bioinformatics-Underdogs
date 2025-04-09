@@ -8,8 +8,8 @@ has_children: False
 # Results Gallery
 ## Nucleotide sequence visualizations
 From the user-provided FASTA files, sequnce length and GC content are calculated:
-![myimg](DistSeqLen.png){: width="600"}
-![myimg](DistGCcont.png){: width="600"}
+![myimg](DistSeqLen.png){: width="450"}
+![myimg](DistGCcont.png){: width="450"}
 
 ## Translated Protein Sequences
 ### Concerved Regions 
