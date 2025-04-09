@@ -18,17 +18,11 @@ This web interface is organized into five sections:
 
 [Home](https://github.com/luquelab/Bioinformatics-Underdogs) (you are here!)
 
-[Tutorial](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/tutorial)
+[Tutorial](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/tutorial) The tutorial section contains detailed insturctions on how to use the Underdogs pipeline and includes a step-by-step example.
 
-The tutorial section contains detailed insturctions on how to use the Underdogs pipeline and includes a step-by-step example.
+[Documentation](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation) The documentation section contains information on the packages and tools used in the pipeline.
 
-[Documentation](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation)
-
-The documentation section contains information on the packages and tools used in the pipeline.
-
-[Gallery](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/gallery/index.md)
-
-Visual outputs of the pipeline including plots, figures, heatmaps, and trees.
+[Gallery](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/gallery/index.md) Visual outputs of the pipeline including plots, figures, heatmaps, and trees.
 
 [Acknowledgements](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/acknowledgements)
 
