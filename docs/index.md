@@ -13,15 +13,16 @@ nav_order: 1
 ## Organization
 
 This web interface is organized into five sections: 
-### Home (you are here)
-### ![Tutorial] (https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation)
+
+Home (you are here)
+![Tutorial] (https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation)
 The tutorial section contains detailed insturctions on how to use the Underdogs pipeline and includes a step-by-step example.
 
-### ![Documentation] (https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation)
+![Documentation] (https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation)
 The documentation section contains information on the packages and tools used in the pipeline.
 
-### ![Gallery] (https://github.com/luquelab/Bioinformatics-Underdogs/tree/main/docs/gallery)
+![Gallery] (https://github.com/luquelab/Bioinformatics-Underdogs/tree/main/docs/gallery)
 
-### ![Acknowledgements] (https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/acknowledgements)
+![Acknowledgements] (https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/acknowledgements)
 
 This is an evovling repository that was started 04 APR 2025. It is a group project produced by undergraduate students as part of a Bioinformatic Tools class (BIL552) at the University of Miami. Group members include Sophia Soli, Ryan McMullen, Aliyah Raza, Blake Goldberg, and Zahra Faghihi.
