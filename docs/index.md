@@ -16,13 +16,13 @@ This is an evovling repository that was started 04 APR 2025. It is a group proje
 
 This web interface is organized into five sections: 
 
-[Home](https://github.com/luquelab/Bioinformatics-Underdogs) (you are here!)
+[Home](/Bioinformatics-Underdogs/) (you are here!)
 
-[Tutorial](tutorial) The tutorial section contains detailed insturctions on how to use the Underdogs pipeline and includes a step-by-step example.
+[Tutorial](/Bioinformatics-Underdogs/tutorial) — The tutorial section contains detailed instructions on how to use the Underdogs pipeline and includes a step-by-step example.
 
-[Documentation](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/documentation.md) The documentation section contains information on the packages and tools used in the pipeline.
+[Documentation](/Bioinformatics-Underdogs/documentation) — The documentation section contains information on the packages and tools used in the pipeline.
 
-[Gallery](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/gallery/index.md) Visual outputs of the pipeline including plots, figures, heatmaps, and trees.
+[Gallery](/Bioinformatics-Underdogs/gallery/) — Visual outputs of the pipeline including plots, figures, heatmaps, and trees.
 
-[Acknowledgements](https://github.com/luquelab/Bioinformatics-Underdogs/blob/main/docs/acknowledgements)
+[Acknowledgements](/Bioinformatics-Underdogs/acknowledgements) 
 
