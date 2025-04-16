@@ -1,9 +1,30 @@
 title: Bioinformatics Underdogs
-remote_theme: just-the-docs/just-the-docs
+description: A bioinformatics bootcamp taught by Luque Lab
+theme: just-the-docs
+# Set a base URL if deploying under a subpath
+# baseurl: "/Bioinformatics-Underdogs"
 
-# Optional
+# Enable search functionality
 search_enabled: true
-color_scheme: light
 
-# Automatically sort sidebar pages
-nav_sort: case_insensitive
+# Optional: specify a logo for the navbar
+# logo: "/assets/images/logo.png"
+
+# Optional: set a color scheme (default, dark, light)
+# color_scheme: "light"
+
+# Optional: sidebar navigation configuration
+# Set to true if you want the sidebar to be collapsed by default
+# nav_sort: case_insensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer content (optional)
+footer_content: "Bioinformatics Underdogs by Luque Lab. Powered by Just the Docs."
+
+# GitHub repository info (used for edit links)
+# Adjust this if you want “Edit this page on GitHub” links
+repository_url: "https://github.com/luquelab/Bioinformatics-Underdogs"
+# show_edit_on_github_link: true
