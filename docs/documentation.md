@@ -2,6 +2,7 @@
 ### This pipeline functions to identify a set of unknown nucleotide sequences by using bioinformatic tools and accessing databases. Additionally, this pipeline serves to compare the sequences to one another and produce figures with identifying information and comparison. 
 
 ## Steps involved:
+
 ### First the sequences are translated from nucleotide form to amino acids. Also basic information like sequences length and GC content are plotted this is done using Biopython.
 
 ## Second the sequences are compared in a multiple sequence alignment using Clustal Omega. This will create a consesus plot of conserved regions and a pairwise distance heatmap. 
