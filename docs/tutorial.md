@@ -23,14 +23,17 @@ Translate DNA sequences into proteins.
 ### Perform Multiple Sequence Alignment (MSA)
 Use Clustal Omega to align protein sequences. Run the alignment cell and save the aligned output in both FASTA and Clustal formats.
 
-## Step 5
+## Step 6
 ### Conservation & Distance Analysis
 After alignment:
 
 Compute conservation scores to identify conserved regions.
 Generate a distance matrix based on sequence similarity.
-5. Phylogenetic Tree Construction
+
+## Step 7
+### Phylogenetic Tree Construction
 Build a phylogenetic tree using the UPGMA method. Save the tree in Newick, PhyloXML, and SVG formats.
 
-6. BLAST Search (NCBI nr Database)
+## Step 8
+### BLAST Search (NCBI nr Database)
 Run the BLAST search to compare translated protein sequences against the NCBI nr database. Save the results in CSV format for further interpretation.
