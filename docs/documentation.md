@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tutorial
+nav_order: 3
+---
+
 ## Function of Pipeline
 ### This pipeline functions to identify a set of unknown nucleotide sequences by using bioinformatic tools and accessing databases. Additionally, this pipeline serves to compare the sequences to one another and produce figures with identifying information and comparison. 
 
