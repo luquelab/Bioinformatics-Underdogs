@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tutorial
+nav_order: 2
+---
+
 # Tutorial to implement Bioinformatic pipeline
 
 ## Step 1.
